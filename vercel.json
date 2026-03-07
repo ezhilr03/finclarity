@@ -29,8 +29,5 @@
         { "key": "Cache-Control", "value": "public, max-age=86400" }
       ]
     }
-  ],
-  "env": {
-    "VITE_API_BASE_URL": "@finclarity_api_url"
-  }
+  ]
 }
